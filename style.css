@@ -1,0 +1,26 @@
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+body,html{
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.navbar-nav li{
+   padding-right: 10px;
+}
+
+.nav-link{
+    font-size: 1.1em !important;
+    color: black;
+}
+
+.main-icon-color{
+    color: black;
+}
+
+.ramaaa{
+    border: 2px solid gray;
+}
